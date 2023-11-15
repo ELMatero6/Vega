@@ -23,6 +23,9 @@ Vega is a testing platform created by ELMatero6 to bring intelligent locally ran
 
 # Installation
 *Currently unfinished*
+*Will Fix later*
+
+
 Git - https://git-scm.com/download/win
 
 

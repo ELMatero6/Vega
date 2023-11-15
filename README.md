@@ -22,8 +22,7 @@ Vega is a testing platform created by ELMatero6 to bring intelligent locally ran
   Future plans are to get it to run on a raspberry pi
 
 # Installation
-**MAKE SURE PYTHON 3.10 AND GIT ARE INSTALLED**
-Python 3.10 - Microsoft Store
+*Currently unfinished*
 Git - https://git-scm.com/download/win
 
 

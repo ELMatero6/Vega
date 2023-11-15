@@ -1,0 +1,14 @@
+accelerate==0.24.0
+auto-gptq
+playsound==1.2.2
+rvc @ git+https://github.com/JarodMica/rvc.git#egg=rvc
+sounddevice==0.4.6
+soundfile==0.12.1
+transformers @ git+https://github.com/huggingface/transformers.git@06e782da4e58f93a60c6bedc84b5991abaae58f5
+rvc_tts_pipe @ git+https://github.com/JarodMica/rvc-tts-pipeline.git@lightweight#egg=rvc_tts_pipe
+pygame
+pyttsx3
+av
+llama-cpp-python
+tdqm
+requests

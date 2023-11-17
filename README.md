@@ -6,7 +6,9 @@ Vega is a testing platform created by ELMatero6 to bring intelligent locally ran
 ## What is this?
   I know what you're thinking, what the hell is this, and why is it such a large file.
   This is Vega, my artificial intelligence testing platform.
-  it's a Mistral 7B parameter model. Trained by TheBloke
+  it's a Mistral 7B parameter model. 
+
+Trained by TheBloke
   https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF
   
   Vega is an AI model from the Doom franchise, mostly the new 2 Doom games. Currently it is only in a text based state with the AI being able to reply with vega's voice, there is no support for Speech to text yet.
